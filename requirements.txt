@@ -1,18 +1,7 @@
-# Framework para la aplicación web
-streamlit
-
-# Machine Learning y Redes Neuronales
-tensorflow
-
-# Herramientas de Scikit-learn (preprocesamiento)
-scikit-learn
-
-# Manejo de datos y arrays
-pandas
-numpy
-
-# Para manejar datasets desbalanceados (SMOTE)
-imbalanced-learn
-
-# Para manejar imágenes (logo en la app)
-Pillow
+streamlit==1.33.0
+tensorflow==2.15.0
+scikit-learn==1.3.2
+pandas==2.1.4
+numpy==1.26.2
+imbalanced-learn==0.11.0
+Pillow==10.2.0
