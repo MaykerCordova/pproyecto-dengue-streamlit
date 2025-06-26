@@ -3,10 +3,13 @@ streamlit
 
 # Machine Learning y Redes Neuronales
 tensorflow
+
+# Herramientas de Scikit-learn (preprocesamiento)
 scikit-learn
 
 # Manejo de datos y arrays
 pandas
+numpy
 
 # Para manejar datasets desbalanceados (SMOTE)
 imbalanced-learn
